@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T03:43:10.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pBkae67Xv89PrAOKBs0j" version="14.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-16T03:44:30.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HtxayYYzNf_F0mSgEILb" version="14.0.3" type="github" pages="3">
   <diagram name="信息接报数据关联分析" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="2773" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="250" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-3" value="通讯录机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="1130" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="m6W_akmNrxcxIRO573pG-18" target="m6W_akmNrxcxIRO573pG-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,14 +34,14 @@
         <mxCell id="m6W_akmNrxcxIRO573pG-16" value="值班人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m6W_akmNrxcxIRO573pG-17" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6W_akmNrxcxIRO573pG-18" target="m6W_akmNrxcxIRO573pG-16">
+        <mxCell id="m6W_akmNrxcxIRO573pG-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="m6W_akmNrxcxIRO573pG-18" target="m6W_akmNrxcxIRO573pG-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="403.96000000000004" y="502" as="sourcePoint" />
             <mxPoint x="570" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-18" value="通讯录人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="330" width="30" height="60" as="geometry" />
+          <mxGeometry x="1180" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PugX-05pWGuCXVaaNZpQ-1" value="企业用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="30" height="60" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="320" y="20" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xcVkql0uX_FVAlT3NxzD-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-190" y="870" width="430" height="220" as="geometry" />
+          <mxGeometry x="-170" y="870" width="430" height="220" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcVkql0uX_FVAlT3NxzD-21">
           <mxGeometry width="430" height="220" as="geometry" />
@@ -115,8 +115,8 @@
         <mxCell id="xcVkql0uX_FVAlT3NxzD-17" value="视频监测设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xcVkql0uX_FVAlT3NxzD-21">
           <mxGeometry x="10" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xcVkql0uX_FVAlT3NxzD-18" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="xcVkql0uX_FVAlT3NxzD-21">
-          <mxGeometry x="350" y="190" width="40" height="20" as="geometry" />
+        <mxCell id="xcVkql0uX_FVAlT3NxzD-18" value="监测监控设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="xcVkql0uX_FVAlT3NxzD-21">
+          <mxGeometry x="320" y="190" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
