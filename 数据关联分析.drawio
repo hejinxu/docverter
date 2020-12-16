@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T03:19:09.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i3WHPtDRjIHF9sEl9QQl" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T03:23:01.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sCjrV-OyizyBAlTwwpyq" version="14.0.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="310" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-3" value="通讯录机构" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="550" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="m6W_akmNrxcxIRO573pG-18" target="m6W_akmNrxcxIRO573pG-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,13 +17,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-7" value="短信" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="330" width="100" height="60" as="geometry" />
+          <mxGeometry x="260" y="580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-8" value="故障报修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-9" value="通讯调度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-10" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="680" width="100" height="60" as="geometry" />
@@ -62,13 +62,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-18" value="通讯录人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="470" width="30" height="60" as="geometry" />
+          <mxGeometry x="735" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6W_akmNrxcxIRO573pG-19" value="" style="endArrow=none;html=1;exitX=0.342;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6W_akmNrxcxIRO573pG-9" target="m6W_akmNrxcxIRO573pG-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="430" as="sourcePoint" />
             <mxPoint x="570" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m6W_akmNrxcxIRO573pG-20" value="手台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="435" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6W_akmNrxcxIRO573pG-21" value="对讲" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6W_akmNrxcxIRO573pG-22" value="广播" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6W_akmNrxcxIRO573pG-23" value="电子屏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
